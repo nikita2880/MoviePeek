@@ -1,6 +1,6 @@
-# AstroCinema
+# MoviePeek
 
-> AstroCinema is a movie database and search engine made with ReactJS.
+> MoviePeek is a movie database and search engine made with ReactJS.
 
 ![screenshot](screenshot.png)
 
@@ -8,15 +8,8 @@ This web app pulls more than 15k movies info from the API.
 
 ## Live Demo
 
-Successfully hosted on [Netlify](https://react-movie-database-18.netlify.app/)
+Successfully hosted on [Netlify](https://moviepeek.netlify.app/)
 
-## Tools Used
-
-- React Js
-- MobX
-- React Router
-- Sass
-- CSS3
 
 ## Developers
 
