@@ -2,7 +2,7 @@
 
 > MoviePeek is a movie database and search engine made with ReactJS.
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.PNG)
 
 This web app pulls more than 15k movies info from the API.
 
